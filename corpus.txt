@@ -1,0 +1,10 @@
+hello|Hello! How can I assist you today?
+hey|Hey! How can I assist you today?
+hi|Hi there! What can I do for you?
+how are you|I'm just a chatbot, but I'm functioning properly! How can I help?
+who are you|I am a simple chatbot created to assist you.
+what can you do|I can answer basic questions. Try asking me something!
+tell me a joke|Why don’t scientists trust atoms? Because they make up everything!
+bye|Goodbye! Have a great day!
+goodbye|See you later! Take care!
+help|I'm here to help. Ask me anything!
